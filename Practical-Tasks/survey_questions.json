@@ -1,0 +1,15 @@
+{
+  "Survey_Name": {
+    "Page_Name": {
+      "Question1_Name": {
+        "Description": "De que color era el elefante rosa?",
+        "Answers": ["Verde", "Azul", "Gris"]
+      },
+
+      "Question2_Name": {
+        "Description": "Cual comida prefieres?",
+        "Answers": ["Enchiladas", "Enfrijoladas", "Entomatadas"]
+      }
+    }
+  }
+}
